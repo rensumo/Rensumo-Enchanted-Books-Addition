@@ -1,0 +1,161 @@
+{
+  "mod_elements": [
+    {
+      "name": "Underwatersuffocation",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "underwatersuffocation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rensumoenchantedbooksaddition/enchantment/UnderwatersuffocationEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Suffocationonwater",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "suffocationonwater",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rensumoenchantedbooksaddition/enchantment/SuffocationonwaterEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Weareallstrivingtolive",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "weareallstrivingtolive",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/rensumo_enchanted_books_addition/advancements/weareallstrivingtolive.json"
+        ]
+      }
+    },
+    {
+      "name": "InsectErosionCurse",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "insect_erosion_curse",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rensumoenchantedbooksaddition/enchantment/InsectErosionCurseEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "TheCurseoftheDeepSea",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "the_curseofthe_deep_sea",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rensumoenchantedbooksaddition/enchantment/TheCurseoftheDeepSeaEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "TheHiddenCurse",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "the_hidden_curse",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rensumoenchantedbooksaddition/enchantment/TheHiddenCurseEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "TheCurseofProsperity",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "the_curseof_prosperity",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rensumoenchantedbooksaddition/enchantment/TheCurseofProsperityEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "Pronetocurses",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pronetocurses",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/rensumo_enchanted_books_addition/advancements/pronetocurses.json"
+        ]
+      }
+    },
+    {
+      "name": "Rensumoenchantedbooksaddition",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rensumoenchantedbooksaddition",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ThrownSword",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "thrown_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rensumoenchantedbooksaddition/entity/ThrownSwordEntity.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "advancements.weareallstrivingtolive.descr": "戴上了同时附有水上和水下窒息的头盔",
+      "advancements.weareallstrivingtolive.title": "俺们都在努力的活",
+      "enchantment.rensumo_enchanted_books_addition.insect_erosion_curse": "VerminCurseEnchantment",
+      "enchantment.rensumo_enchanted_books_addition.the_curseof_prosperity": "The Curseof Prosperity",
+      "enchantment.rensumo_enchanted_books_addition.suffocationonwater": "Suffocationonwater",
+      "advancements.pronetocurses.descr": "d",
+      "enchantment.rensumo_enchanted_books_addition.the_curseofthe_deep_sea": "The Curseofthe Deep Sea",
+      "enchantment.rensumo_enchanted_books_addition.underwatersuffocation": "Underwatersuffocation",
+      "advancements.pronetocurses.title": "Pronetocurses",
+      "enchantment.rensumo_enchanted_books_addition.the_hidden_curse": "The Hidden Curse",
+      "item_group.rensumo_enchanted_books_addition.rensumoenchantedbooksaddition": "Rensumoenchantedbooksaddition"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rensumo_enchanted_books_addition",
+    "modName": "RensumoEnchantedBooksAddition",
+    "version": "1.0.0",
+    "author": "Administrator, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.rensumoenchantedbooksaddition"
+  },
+  "mcreatorVersion": 202400452410
+}
